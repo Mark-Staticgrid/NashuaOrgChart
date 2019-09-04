@@ -1,0 +1,844 @@
+{
+  "name": "George Lumley",
+  "imageUrl": "http://www.static-grid.com/assets/images/gerhardvanrooyen.jpg",
+  "area": "Unit 6, Reger Park",
+  "profileUrl": "http://www.twitter.com",
+  "office": "Windhoek",
+  "tags": "Managing,Director,George,Lumley",
+  "isLoggedUser": false,
+  "unit": {
+    "type": "",
+    "value": "OA Sales"
+  },
+  "positionName": "Managing Director",
+  "children": [
+     {
+                      "name": "Clive Carew",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Unit 5, Reger Park",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "Windhoek",
+                      "tags": "Ceo,tag1, tag2",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "",
+                        "value": "Technical Department"
+                      },
+                      "positionName": "Technical Manager",
+					  "children": [
+					  
+					  
+								{
+									"name": "Fanie Coetzer",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Tsumeb",
+									"tags": "Fanie,Coetzer,Tsumeb",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Technical/Sales"
+									},
+									"positionName": "Branch Manager",
+									"children": [
+									
+												{
+												"name": "Geneva de Jager",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "?",
+												"tags": "Geneva,de Jager",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Consumable Sales"
+												},
+												"positionName": "Sales Executive"
+												},
+												
+												
+												{
+												"name": "John Stoffel",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "?",
+												"tags": "John,Stoffel,?",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Technical Engineer"
+												},
+												
+												{
+												"name": "Rachel Nitchke",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "?",
+												"tags": "Rachel,Nitchke,?",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Administration"
+												},
+												"positionName": "Office Admin"
+												},
+												
+												{
+												"name": "Sarafina Nekundi",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Oshakati",
+												"tags": "Sarafina,Nekundi,Oshakati,Service",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Service Department"
+												},
+												"positionName": "Service Controller"
+												},
+												
+												{
+												"name": "Shakespeare Julius",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Oshakati",
+												"tags": "Shakespeare,Julius,Technical,Engineer,Oshakati",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Technical Engineer"
+												},
+												
+												{
+												"name": "Warren de Jager",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Oshakati",
+												"tags": "Warren,De Jager,Oshakati,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Technical Engineer"
+												}
+												
+												
+												
+												
+									
+												]
+								
+								},
+								
+								
+								{
+								"name": "Jacobus Engelbrecht",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "?",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Keetmanshoop",
+									"tags": "Jacobus,Engelbrecht,Keetmanshoop",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Technical/Sales"
+									},
+									"positionName": "Branch Supervisor",
+									"children": [
+									
+												{
+												"name": "Jan Jobs",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Keetmanshoop",
+												"tags": "Jan,Jobs,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Technical Engineer"
+												},
+												
+												
+												{
+												"name": "Shanice Willemse",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Keetmanshoop",
+												"tags": "Shanice,Willemse,Service",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Service Department"
+												},
+												"positionName": "Service Controller"
+												},
+												
+												{
+												"name": "Sherizia Diergaardt",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "?",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Keetmanshoop",
+												"tags": "Sherizia,Diergaardt,Service",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Service Department"
+												},
+												"positionName": "Service Controller"
+												}
+												
+									
+												]
+								
+								},
+								
+								{
+								"name": "Bernard Koopman",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Bernard,Koopman,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Technical Engineer"
+								},
+								
+								{
+								"name": "Jose Adams",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Jose,Adams,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Snr Technical Engineer"
+								},
+								
+								{
+								"name": "Dennis Izaaks",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Dennis,Izaaks,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Snr Technical Engineer"
+								},
+								
+								{
+								"name": "Faizel Ockhuizen",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Faizel,Ockhuizen,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Snr Technical Engineer"
+								},
+								
+								{
+								"name": "Gavin Kruger",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Gavin,Kruger,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Technical Engineer"
+								},
+								
+								{
+								"name": "Gerhard van Rooyen",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Gerhard,van Rooyen,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Specialist Engineer"
+								},
+								
+							
+								
+								{
+								"name": "Leonard Steyn",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Leonard,Steyn,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Jnr Technical Engineer"
+								},
+								
+								{
+								"name": "Lukas Maass",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Lukas,Maass,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Snr Technical Engineer"
+								},
+								
+								{
+								"name": "Sebastian Scholtz",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Sebastian,Scholtz,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Technical Engineer"
+								},
+								
+								{
+								"name": "Thadeus Haingura",
+												"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+												"area": "Unit 5, Reger Park",
+												"profileUrl": "http://example.com/employee/profile",
+												"office": "Windhoek",
+												"tags": "Thadeus,Haingura,Technical",
+												"isLoggedUser": false,
+												"unit": {
+												"type": "",
+												"value": "Technical Department"
+												},
+												"positionName": "Snr Technical Engineer"
+								}
+								
+								
+								
+								
+								
+                              ]
+							
+		},
+								
+								
+								
+								
+                    {
+                      "name": "George Lumley",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Unit 6, Reger Park",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "Windhoek",
+                      "tags": "George,Lumley,Sales",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "",
+                        "value": "OA Sales"
+                      },
+                      "positionName": "Sales Manager",
+					  "children": [
+					  
+								{
+								"name": "Anya Els",
+								"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+								"area": "?",
+								"profileUrl": "http://example.com/employee/profile",
+								"office": "Walvis Bay",
+								"tags": "Anya,Els,Sales",
+								"isLoggedUser": false,
+								"unit": {
+								"type": "",
+								"value": "OA Sales"
+								},
+								"positionName": "Sales Executive",
+								"children": [
+								
+											{
+											"name": "Madelein de Klerk",
+											"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+											"area": "?",
+											"profileUrl": "http://example.com/employee/profile",
+											"office": "Walvis Bay",
+											"tags": "Madelein,de Klerk,Service",
+											"isLoggedUser": false,
+											"unit": {
+											"type": "",
+											"value": "Service Department"
+											},
+											"positionName": "Service Controller"
+											},
+											
+											{
+											"name": "Shawn Profit",
+											"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+											"area": "?",
+											"profileUrl": "http://example.com/employee/profile",
+											"office": "Walvis Bay",
+											"tags": "Shawn,Profit,Technical",
+											"isLoggedUser": false,
+											"unit": {
+											"type": "",
+											"value": "Technical Department"
+											},
+											"positionName": "Technical Engineer"
+											},
+											
+											{
+											"name": "Anton van der Heijden",
+											"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+											"area": "?",
+											"profileUrl": "http://example.com/employee/profile",
+											"office": "Walvis Bay",
+											"tags": "Anton,van der Heijden,Technical",
+											"isLoggedUser": false,
+											"unit": {
+											"type": "",
+											"value": "Technical Department"
+											},
+											"positionName": "Technical Engineer"
+											}
+								
+								
+								
+								
+								]
+								},
+								
+								{
+								"name": "Du-Jean Arlove",
+								"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+								"area": "Unit 6, Reger Park",
+								"profileUrl": "http://example.com/employee/profile",
+								"office": "Windhoek",
+								"tags": "Du-Jean,Arlove,Sales",
+								"isLoggedUser": false,
+								"unit": {
+								"type": "",
+								"value": "OA Sales"
+								},
+								"positionName": "Sales Executive"
+								},
+								
+								{
+								"name": "Mark van Schalkwyk",
+								"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+								"area": "Unit 6, Reger Park",
+								"profileUrl": "http://example.com/employee/profile",
+								"office": "Windhoek",
+								"tags": "Mark,van Schalkwyk,Sales",
+								"isLoggedUser": false,
+								"unit": {
+								"type": "",
+								"value": "OA Sales"
+								},
+								"positionName": "Sales Executive"
+								},
+								
+								{
+								"name": "Marshall Petersen",
+								"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+								"area": "Unit 6, Reger Park",
+								"profileUrl": "http://example.com/employee/profile",
+								"office": "Windhoek",
+								"tags": "Marshall,Petersen,Sales",
+								"isLoggedUser": false,
+								"unit": {
+								"type": "",
+								"value": "OA Sales"
+								},
+								"positionName": "Sales Executive"
+								},
+								
+								{
+								"name": "Bobby Samaria",
+								"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+								"area": "Unit 6, Reger Park",
+								"profileUrl": "http://example.com/employee/profile",
+								"office": "Windhoek",
+								"tags": "Bobby,Samaria,Sales",
+								"isLoggedUser": false,
+								"unit": {
+								"type": "",
+								"value": "OA Sales"
+								},
+								"positionName": "Sales Executive"
+								}
+					  
+					  ]
+                    },
+                    
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					{
+                      "name": "Daniel Weitz",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Unit 5, Reger Park",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "Windhoek",
+                      "tags": "Daniel,Weitz,Finance",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "",
+                        "value": "Finance Department"
+                      },
+                      "positionName": "Financial Manager",
+					  "children":[
+					  
+									{
+									"name": "Jonathan Momberg",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "Unit 6, Reger Park",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Jonathan,Momberg,Printroom",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Printroom"
+									},
+									"positionName": "Printroom Supervisor",
+									"children":[
+									
+														{
+														"name": "Manuel Pedro",
+														"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+														"area": "Unit 6, Reger Park",
+														"profileUrl": "http://example.com/employee/profile",
+														"office": "Windhoek",
+														"tags": "Manual,Pedro,Printroom",
+														"isLoggedUser": false,
+														"unit": {
+														"type": "",
+														"value": "Printroom"
+														},
+														"positionName": "Printroom Assistant"
+														},
+														
+														{
+														"name": "Wilhelm Erastus",
+														"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+														"area": "Unit 6, Reger Park",
+														"profileUrl": "http://example.com/employee/profile",
+														"office": "Windhoek",
+														"tags": "Wilhelm,Erastus,Printroom",
+														"isLoggedUser": false,
+														"unit": {
+														"type": "",
+														"value": "Printroom"
+														},
+														"positionName": "Printroom Assistant"
+														}
+														
+														 
+														
+											]
+									},
+										  
+									{
+									"name": "Muzelle Greeff",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "?",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "?",
+									"tags": "Muzelle,Greeff,?",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "?"
+									},
+									"positionName": "?"
+									},
+					  
+									{
+									"name": "Riekie Rossouw",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "?",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Riekie,Rossouw,Printroom",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Printroom"
+									},
+									"positionName": "Printroom Supervisor"
+									},
+					  
+									{
+									"name": "Connie Stuurman",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "?",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Connie,Stuurman,Printroom",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Printroom"
+									},
+									"positionName": "Printroom Supervisor"
+									},
+					  
+									{
+									"name": "Elsa Coetzee",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "?",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Elsa,Coetzee,Warehouse",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Warehouse"
+									},
+									"positionName": "Stock Controller"
+									}
+					  
+									
+					  
+					  
+					  
+					  
+					  
+					  
+					  
+					  
+					  ]
+                    },
+					
+					
+					
+					
+					
+					
+                    {
+                      "name": "Heidi Sprangers",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Unit 5, Reger Park",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "Windhoek",
+                      "tags": "Heidi,Sprangers,Service",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "",
+                        "value": "Service Department"
+                      },
+                      "positionName": "Service Manager"
+                    },
+					
+					
+					
+					
+					{
+                      "name": "Jack Enright",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Unit 5, Reger Park",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "Windhoek",
+                      "tags": "Jack,Enright,Human Resources",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "",
+                        "value": "Human Resources"
+                      },
+                      "positionName": "HR Manager"
+                    },
+					
+					
+					
+					{
+                      "name": "Lydia Lumley",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Unit 6, Reger Park",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "Windhoek",
+                      "tags": "Lydia,Lumley,Manager",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "",
+                        "value": "General"
+                      },
+                      "positionName": "Senior Manager"
+                    },
+					
+					
+					
+					{
+                      "name": "Willie Prinsloo",
+                      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                      "area": "Unit 6, Reger Park",
+                      "profileUrl": "http://example.com/employee/profile",
+                      "office": "Windhoek",
+                      "tags": "Willie,Prinsloo,Telecommunications",
+                      "isLoggedUser": false,
+                      "unit": {
+                        "type": "",
+                        "value": "Telecommunications"
+                      },
+                      "positionName": "Managing Director",
+					  "children": [
+					  
+					  
+									{
+									"name": "Stephan le Roux",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "Unit 6, Reger Park",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Stephan,le Roux,Telecommunications",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Telecommunications"
+									},
+									"positionName": "Manager"
+									},
+					  
+					  
+									{
+									"name": "Miriam Swanepoel",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "Unit 6, Reger Park",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Miriam,Swanepoel,Telecommunications",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Telecommunications"
+									},
+									"positionName": "Office Admin"
+									},
+					  
+									{
+									"name": "Lionel Beukes",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "Unit 6, Reger Park",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Lionel,Beaukes,Telecommunications",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Telecommunications"
+									},
+									"positionName": "Engineer"
+									},
+					  
+									{
+									"name": "Shaun Alcock",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "Unit 6, Reger Park",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Shaun,Alcock,Telecommunications",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Telecommunications"
+									},
+									"positionName": "Jnr Engineer"
+									},
+					  
+									{
+									"name": "Stoffel Ockhuizen",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "Unit 6, Reger Park",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Stoffel,Ockhuizen,Telecommunications",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Telecommunications"
+									},
+									"positionName": "Engineer"
+									},
+					  
+									{
+									"name": "Tertius Klazen",
+									"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+									"area": "Unit 6, Reger Park",
+									"profileUrl": "http://example.com/employee/profile",
+									"office": "Windhoek",
+									"tags": "Tertius,Klazen,Telecommunications",
+									"isLoggedUser": false,
+									"unit": {
+									"type": "",
+									"value": "Telecommunications"
+									},
+									"positionName": "Engineer"
+									}
+					  
+					  
+					  
+					  ]
+                    }
+					
+     
+
+    
+  ]
+}
